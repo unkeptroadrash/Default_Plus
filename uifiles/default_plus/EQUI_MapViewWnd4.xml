@@ -299,20 +299,20 @@
 		<ScreenID>MRA_ZoneLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorOffset>0</TopAnchorOffset>
-		<BottomAnchorOffset>20</BottomAnchorOffset>
-		<TopAnchorToTop>true</TopAnchorToTop>
-		<BottomAnchorToTop>true</BottomAnchorToTop>
+		<TopAnchorOffset>14</TopAnchorOffset>
+		<BottomAnchorOffset>0</BottomAnchorOffset>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
 		<RightAnchorToLeft>false</RightAnchorToLeft>
-		<LeftAnchorOffset>1</LeftAnchorOffset>
-		<RightAnchorOffset>1</RightAnchorOffset>
+		<LeftAnchorOffset>2</LeftAnchorOffset>
+		<RightAnchorOffset>50</RightAnchorOffset>
 		<EQType>1020</EQType>
 		<TextColor>
-			<R>192</R>
-			<G>192</G>
-			<B>192</B>
+			<R>0</R>
+			<G>0</G>
+			<B>0</B>
 		</TextColor>
-		<AlignCenter>true</AlignCenter>
+		<AlignLeft>true</AlignLeft>
 	</Label>
 	<Label item="MRA_LocYLabel">
 		<ScreenID>MRA_LocYLabel</ScreenID>
@@ -442,8 +442,8 @@
 		<Pieces>Label:MRA_LocXLabel</Pieces>
 		<Pieces>Label:MRA_LocXCoords</Pieces>
 		<Pieces>Label:MRA_LocZLabel</Pieces>
-		<Pieces>Label:MRA_LocZCoords</Pieces>
-		<Pieces>Label:MRA_ZoneLabel</Pieces> -->
+		<Pieces>Label:MRA_LocZCoords</Pieces> -->
+		<Pieces>Label:MRA_ZoneLabel</Pieces>
 	</Screen>
 	
 	<StaticAnimation item="MVW_MapPiece">
@@ -1103,9 +1103,9 @@
 		<TopAnchorToTop>true</TopAnchorToTop>
 		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorOffset>0</LeftAnchorOffset>
-		<RightAnchorOffset>79</RightAnchorOffset>
+		<RightAnchorOffset>77</RightAnchorOffset>
 		<TopAnchorOffset>0</TopAnchorOffset>
-		<BottomAnchorOffset>212</BottomAnchorOffset>
+		<BottomAnchorOffset>222</BottomAnchorOffset>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
