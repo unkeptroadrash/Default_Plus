@@ -11,6 +11,10 @@ Default_Plus is mainly an edit of the default UI but with some features from def
 <p align="center"><img width="295" height="136" alt="image" src="https://github.com/user-attachments/assets/de92087b-3d74-479a-892f-fb1c8b13fce5" /></p>
 <p align="center"><i>Where default_plus moves the percentages to the right of the bar and the actual values on the left! Also darkened the yellow to improve readability.</i></p>
 
+<p align="center"><img width="295" height="133" alt="image" src="https://github.com/user-attachments/assets/3dc281eb-e611-4abb-a1c2-c33e6cfdea69" /></p>
+<p align="center"><i>Even an option with a larger font!</i>
+
+
 <p align="center"><img width="464" height="336" alt="image" src="https://github.com/user-attachments/assets/ca5b779b-1ad0-4c27-9284-ebca089b8efd" /></p>
 <p align="center"><i>And we borrowed the Compact Map, Light Background and put it into default_plus!</i></p>
 
