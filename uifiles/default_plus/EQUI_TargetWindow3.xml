@@ -542,9 +542,10 @@
 		<RelativePosition>true</RelativePosition>
 		<GaugeOffsetY>0</GaugeOffsetY>
 		<FillTint>
-			<R>247</R>
-			<G>222</G>
-			<B>0</B>
+			<R>181</R>
+			<G>163</G>
+			<B>4</B>
+			<!--Old Value R 247 G 222 B 0 -->
 		</FillTint>
 		<EQType>188</EQType>
 		<GaugeDrawTemplate>
