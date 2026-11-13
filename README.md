@@ -26,7 +26,7 @@ I did not want to include Daybreak/GameJawn's files in here because I'm sure the
 
 Copy your default ui skin located where you installed the game. The default location is:
 ```
-C:\Users\Public\Daybreak Game Company\Installed Games\EverQuest Legends\uifiles\default
+C:\Users\Public\Daybreak Game Company\Installed Games\EverQuest Legends\uifiles\
 ```
 
 ### Step 2:
