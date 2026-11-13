@@ -12,7 +12,10 @@ Default_Plus is mainly an edit of the default UI but with some features from def
 <p align="center"><i>Where default_plus moves the percentages to the right of the bar and the actual values on the left! Also darkened the yellow to improve readability.</i></p>
 
 <p align="center"><img width="464" height="336" alt="image" src="https://github.com/user-attachments/assets/ca5b779b-1ad0-4c27-9284-ebca089b8efd" /></p>
-<p align="center"><i>And we borrowed the Compact Map, Light Background and put it into Default_Plus!</i></p>
+<p align="center"><i>And we borrowed the Compact Map, Light Background and put it into default_plus!</i></p>
+
+<p align="center"><img width="343" height="704" alt="image" src="https://github.com/user-attachments/assets/546389e0-b68b-4833-b2ee-76abde2022eb" /></p>
+<p align="center"><i>Also uses the LEFT - Resizable List, Spell Names, Full Numbering from default_modern</i>
 
 
 ## Installation
