@@ -18,8 +18,13 @@ Default_Plus is mainly an edit of the default UI but with some features from def
 <p align="center"><img width="464" height="336" alt="image" src="https://github.com/user-attachments/assets/ca5b779b-1ad0-4c27-9284-ebca089b8efd" /></p>
 <p align="center"><i>And we borrowed the Compact Map, Light Background and put it into default_plus!</i></p>
 
+<p align="center"><img width="462" height="342" alt="image" src="https://github.com/user-attachments/assets/a4b6b70a-76da-449d-8038-b5cae0e6dddd" />
+<p align="center"><i>Even the Compact Map, Dark Background with some changes!</i></p>
+
 <p align="center"><img width="343" height="704" alt="image" src="https://github.com/user-attachments/assets/546389e0-b68b-4833-b2ee-76abde2022eb" /></p>
 <p align="center"><i>Also uses the LEFT - Resizable List, Spell Names, Full Numbering from default_modern</i>
+
+
 
 
 ## Installation
