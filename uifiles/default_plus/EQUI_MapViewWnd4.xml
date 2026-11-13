@@ -1104,7 +1104,7 @@
 		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorOffset>0</LeftAnchorOffset>
 		<RightAnchorOffset>77</RightAnchorOffset>
-		<TopAnchorOffset>0</TopAnchorOffset>
+		<TopAnchorOffset>2</TopAnchorOffset>
 		<BottomAnchorOffset>222</BottomAnchorOffset>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1385,7 +1385,7 @@
 	</Screen>
 	<Screen item="MapViewWnd">
 		<RelativePosition>false</RelativePosition>
-		<MenuName>Minimalist, Left Controls</MenuName>
+		<MenuName>Compact Map, Light Background</MenuName>
 		<Text>Map</Text>
 		<Location>
 			<X>100</X>
