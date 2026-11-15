@@ -208,7 +208,7 @@
 		<AutoStretch>true</AutoStretch>
 		<TopAnchorOffset>37</TopAnchorOffset>
 		<BottomAnchorOffset>54</BottomAnchorOffset>
-		<LeftAnchorOffset>18</LeftAnchorOffset>
+		<LeftAnchorOffset>21</LeftAnchorOffset>
 		<RightAnchorOffset>4</RightAnchorOffset>
 		<RightAnchorToLeft>false</RightAnchorToLeft>
 	</Gauge>
@@ -242,7 +242,7 @@
 		<AutoStretch>true</AutoStretch>
 		<TopAnchorOffset>37</TopAnchorOffset>
 		<BottomAnchorOffset>54</BottomAnchorOffset>
-		<LeftAnchorOffset>25</LeftAnchorOffset>
+		<LeftAnchorOffset>28</LeftAnchorOffset>
 		<RightAnchorOffset>25</RightAnchorOffset>
 		<RightAnchorToLeft>false</RightAnchorToLeft>
 	</Gauge>
