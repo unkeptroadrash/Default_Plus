@@ -24,6 +24,10 @@ Default_Plus is mainly an edit of the default UI but with some features from def
 <p align="center"><img width="508" height="674" alt="image" src="https://github.com/user-attachments/assets/8a97969a-60ca-4551-b9fd-24c12da2d426" /></p>
 <p align="center"><i>Adapted the Default_Modern Inventory Window to work with it as well!</i>
 
+<p align="center"><img width="316" height="206" alt="image" src="https://github.com/user-attachments/assets/2a94a16e-ede9-4079-b4b2-4acdf11ba858" /></p>
+<p align="center"><i>Default_Modern-like - Resizable pet window looking classic and classy as ever.</i></p>
+
+
 <p align="center"><img width="343" height="704" alt="image" src="https://github.com/user-attachments/assets/546389e0-b68b-4833-b2ee-76abde2022eb" /></p>
 <p align="center"><i>Also uses the LEFT - Resizable List, Spell Names, Full Numbering from default_modern</i>
 
