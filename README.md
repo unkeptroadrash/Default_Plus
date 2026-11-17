@@ -71,5 +71,25 @@ If you had your game open, type
 ```
 to load the UI.
 
+## Updating
 
+After an Update/Patch for EverQuest Legends, if it's UI related, you'll probably want to do these steps.
+
+### Step 1:
+
+Head into your game files and copy the contents of the default UI folder:
+```
+C:\Users\Public\Daybreak Game Company\Installed Games\EverQuest Legends\uifiles\default
+```
+
+### Step 2: 
+
+Drop them into the default_plus folder that you have.
+```
+C:\Users\Public\Daybreak Game Company\Installed Games\EverQuest Legends\uifiles\default_plus
+```
+
+### Step 3: 
+
+Download the latest release of this GitHub and paste the contents into your default_plus folder and overwrite the existing files.
 
