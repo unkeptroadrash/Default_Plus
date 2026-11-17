@@ -71,6 +71,8 @@ If you had your game open, type
 ```
 to load the UI.
 
+
+
 ## Updating
 
 After an Update/Patch for EverQuest Legends, if it's UI related, you'll probably want to do these steps.
